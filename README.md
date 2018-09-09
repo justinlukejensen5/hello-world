@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-This is something different I wrote.
+This is something Different I wrote.
